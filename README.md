@@ -1,2 +1,2 @@
-## Student CURD CLI
+## CRUD CLI APPLICATION
 
